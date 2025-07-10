@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "tip": "Stay hydrated during workouts. Drink 200ml water every 20 minutes",
+    "category": "general"
+  },
+  {
+    "id": 2,
+    "tip": "Dynamic stretches before running, static stretches after",
+    "category": "running"
+  },
+  {
+    "id": 3,
+    "tip": "Aim for 7-9 hours of sleep nightly for optimal recovery",
+    "category": "general"
+  },
+  {
+    "id": 4,
+    "tip": "Replace sugary sports drinks with coconut water for electrolytes",
+    "category": "general"
+  },
+  {
+    "id": 5,
+    "tip": "Land mid-foot while running to reduce knee strain",
+    "category": "running"
+  },
+  {
+    "id": 6,
+    "tip": "Keep your bike chain lubricated to avoid resistance",
+    "category": "cycling"
+  },
+  {
+    "id": 7,
+    "tip": "Engage your core during squats to protect your lower back",
+    "category": "workout"
+  },
+  {
+    "id": 8,
+    "tip": "Breathe rhythmically (inhale nose, exhale mouth) during cardio",
+    "category": "general"
+  },
+  {
+    "id": 9,
+    "tip": "Increase running mileage by only 10% weekly to avoid injury",
+    "category": "running"
+  },
+  {
+    "id": 10,
+    "tip": "Wear padded gloves to prevent numbness on long bike rides",
+    "category": "cycling"
+  },
+  {
+    "id": 11,
+    "tip": "Rest 48 hours between strength training the same muscle group",
+    "category": "workout"
+  },
+  {
+    "id": 12,
+    "tip": "Eat a banana pre-workout for quick energy without heaviness",
+    "category": "general"
+  },
+  {
+    "id": 13,
+    "tip": "Use a foam roller post-run to ease tight IT bands",
+    "category": "running"
+  },
+  {
+    "id": 14,
+    "tip": "Shift to lower gears before stopping to ease bike restarts",
+    "category": "cycling"
+  },
+  {
+    "id": 15,
+    "tip": "Maintain a neutral spine during deadlifts to prevent injury",
+    "category": "workout"
+  },
+  {
+    "id": 16,
+    "tip": "Cool down for 5-10 minutes to lower heart rate gradually",
+    "category": "general"
+  },
+  {
+    "id": 17,
+    "tip": "Run against traffic when on roads without sidewalks",
+    "category": "running"
+  },
+  {
+    "id": 18,
+    "tip": "Check tire pressure before every ride for efficiency",
+    "category": "cycling"
+  },
+  {
+    "id": 19,
+    "tip": "Exhale during the exertion phase (e.g., lifting weights)",
+    "category": "workout"
+  },
+  {
+    "id": 20,
+    "tip": "Replace sneakers every 300-500 miles to avoid joint stress",
+    "category": "general"
+  },
+  {
+    "id": 21,
+    "tip": "Run hills to build strength and endurance faster",
+    "category": "running"
+  },
+  {
+    "id": 22,
+    "tip": "Use cycling sunglasses to protect eyes from UV and debris",
+    "category": "cycling"
+  },
+  {
+    "id": 23,
+    "tip": "Warm up with bodyweight exercises before lifting weights",
+    "category": "workout"
+  },
+  {
+    "id": 24,
+    "tip": "Consume protein within 30 minutes post-workout for recovery",
+    "category": "general"
+  },
+  {
+    "id": 25,
+    "tip": "Avoid overstriding—keep steps under your hips while running",
+    "category": "running"
+  },
+  {
+    "id": 26,
+    "tip": "Stand on pedals occasionally to relieve saddle pressure",
+    "category": "cycling"
+  },
+  {
+    "id": 27,
+    "tip": "Use a full range of motion for better muscle activation",
+    "category": "workout"
+  },
+  {
+    "id": 28,
+    "tip": "Listen to your body—skip workouts if feeling ill or fatigued",
+    "category": "general"
+  },
+  {
+    "id": 29,
+    "tip": "Run on grass or trails to reduce impact vs. pavement",
+    "category": "running"
+  },
+  {
+    "id": 30,
+    "tip": "Clean your bike after rainy rides to prevent rust",
+    "category": "cycling"
+  },
+  {
+    "id": 31,
+    "tip": "Pair opposing muscle groups (e.g., biceps + triceps)",
+    "category": "workout"
+  },
+  {
+    "id": 32,
+    "tip": "Stretch hip flexors if you sit all day to improve posture",
+    "category": "general"
+  },
+  {
+    "id": 33,
+    "tip": "Run with a slight forward lean to use gravity for momentum",
+    "category": "running"
+  },
+  {
+    "id": 34,
+    "tip": "Wear bright/reflective gear for night cycling visibility",
+    "category": "cycling"
+  },
+  {
+    "id": 35,
+    "tip": "Use a spotter for heavy bench presses for safety",
+    "category": "workout"
+  },
+  {
+    "id": 36,
+    "tip": "Meditate 5 minutes post-workout to lower cortisol",
+    "category": "general"
+  },
+  {
+    "id": 37,
+    "tip": "Run with a metronome app to maintain cadence (170-180 steps/min)",
+    "category": "running"
+  },
+  {
+    "id": 38,
+    "tip": "Tuck elbows in while cycling uphill to save energy",
+    "category": "cycling"
+  },
+  {
+    "id": 39,
+    "tip": "Train unilateral movements (e.g., single-leg squats) for balance",
+    "category": "workout"
+  },
+  {
+    "id": 40,
+    "tip": "Use a lacrosse ball to massage foot arches post-workout",
+    "category": "general"
+  },
+  {
+    "id": 41,
+    "tip": "Run in the morning to boost metabolism all day",
+    "category": "running"
+  },
+  {
+    "id": 42,
+    "tip": "Descend in a controlled manner to avoid bike wobbles",
+    "category": "cycling"
+  }
+]
